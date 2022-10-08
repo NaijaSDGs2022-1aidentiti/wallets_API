@@ -1,4 +1,4 @@
-#iadentiti Team- wallets_API service for cashflaskes
+# 1adentiti Team- wallets_API service for cashflaskes
 
 This micro service provides crypto-wallets to all new users and manages 
 #wallet to wallet transfers
